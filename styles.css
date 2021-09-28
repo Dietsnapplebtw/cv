@@ -80,10 +80,10 @@ span:before{
 }
 @keyframes animate {
   0% {
-    content: "student";
+    content: "ok";
   }
   25% {
-    content: "programmer";
+    content: "你好";
   }
   50% {
     content: "hi"
